@@ -1,11 +1,11 @@
 {
-  "name": "lws",
+  "name": "slight",
   "version": "1.0.0",
-  "description": "",
-  "main": "lib/LWS.js",
+  "description": "Lightweight server",
+  "main": "lib/Slight.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Simon Tabor",
+  "license": "MIT"
 }
