@@ -4,6 +4,14 @@ Slight is a fast, lightweight and dependency-free HTTP server framework designed
 
 Used at [Luno](https://luno.io) to power our User Management API.
 
+## Install
+
+[npm](https://www.npmjs.com/package/slight)
+
+```sh
+npm install --save slight
+```
+
 ## Usage
 
 ```js
