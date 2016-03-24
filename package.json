@@ -1,11 +1,32 @@
 {
   "name": "slight",
-  "version": "1.0.0",
-  "description": "Lightweight server",
+  "version": "1.0.1",
+  "description": "Fast, lightweight and dependency-free HTTP server framework designed for APIs, similar to Express.",
   "main": "lib/Slight.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lunoio/slight.git"
+  },
+  "keywords": [
+    "api",
+    "server",
+    "http",
+    "express",
+    "restify",
+    "framework",
+    "web",
+    "rest",
+    "restful",
+    "router",
+    "luno"
+  ],
   "author": "Simon Tabor",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lunoio/slight/issues"
+  },
+  "homepage": "https://github.com/lunoio/slight"
 }
